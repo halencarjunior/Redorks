@@ -1,0 +1,8 @@
+# Ignore virtual environment directories
+venv/
+env/
+
+# Ignore report files
+*.report
+*.log
+reports/
