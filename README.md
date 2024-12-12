@@ -1,6 +1,6 @@
 # Redorks
 
-**Redorks** is a powerful tool for performing initial reconnaissance on domains using **Google Dorks**. The program allows you to uncover sensitive information and explore public data in an automated way, organizing the results into well-structured reports.
+**Redorks** is a tool for performing initial reconnaissance on domains using **Google Dorks**. The program allows you to uncover sensitive information and explore public data in an automated way, organizing the results into well-structured reports.
 
 ## Features
 
